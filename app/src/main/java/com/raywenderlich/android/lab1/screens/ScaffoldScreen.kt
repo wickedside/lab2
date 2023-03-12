@@ -69,5 +69,8 @@ fun MyTopAppBar(scaffoldState: ScaffoldState, scope: CoroutineScope) {
 
 @Composable
 fun MyBottomAppBar(){
-
+    BottomAppBar(
+        content = {},
+        backgroundColor = colorResource(id = R.color.colorPrimary)
+    )
 }
