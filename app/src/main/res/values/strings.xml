@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Lab2</string>
     <string name="massage_button">Закрыть</string>
     <string name="insert_text">Введите текст</string>
     <string name="set_button">выбрать</string>
@@ -20,4 +20,6 @@
     <string name="Box">контейнер Box</string>
     <string name="Surface">контейнер Surface</string>
     <string name="Scaffold">контейнер Scaffold</string>
+    <string name="menu">меню</string>
+
 </resources>
